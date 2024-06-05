@@ -2,12 +2,12 @@ Element,Qualifier
 Title,Alternative
 Description,Table Of Contents
 ,Abstract
-DateCreated
+DateCreated,
 ,Valid
 ,Available
 ,Issued
 ,Modified
-FormatExtent
+FormatExtent,
 ,Medium
 Relation,Is Version Of
 ,Has Version
@@ -33,5 +33,4 @@ Relation,Is Version Of
 ,References
 ,Is Format Of
 ,Has Format
-CoverageSpatial
-,Temporal
+CoverageSpatial,Temporal
